@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="temp/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jai_codec.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jai_core.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/swingx-1.0.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/ghost4j-0.3.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jai_imageio.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jna-3.2.2.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>

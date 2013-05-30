@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="showYZM"
+  id="myeclipse.1369719717508"
+  context-root="/showYZM"
+  j2ee-spec="5.0"
+  archive="showYZM.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
